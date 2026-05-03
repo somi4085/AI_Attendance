@@ -1,13 +1,41 @@
-.vscode
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment Variables
 .env
 
+# Large datasets
+data/
+datasets/
 
-*.pyc
-_pycache_/
-
-venv/
-
-.streamlit/
-
-
-dist/
+# Trained models (optional if huge)
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
