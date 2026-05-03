@@ -1,3 +1,6 @@
+# frontend library
+streamlit
+
 # utilities 
 numpy
 pandas
@@ -19,5 +22,6 @@ segno   # Qr code image generates
 pillow  # to take input as a image
 
 
-# frontend library
-streamlit
+
+librosa
+resemblyzer

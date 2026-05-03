@@ -76,7 +76,7 @@ def style_base_layout():
                 }
                 
         button[data-testid="stBaseButton-secondary"] {
-                  background : #EB459E  !important;
+                  background: #EB459E  !important;
                   border-radius: 1.5rem !important;
                   color: white !important;
                   padding: 10px 20px !important;
