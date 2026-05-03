@@ -33,7 +33,7 @@ Thumbs.db
 data/
 datasets/
 
-# Trained models (optional if huge)
+# Trained models 
 *.pkl
 *.joblib
 *.h5
